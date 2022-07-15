@@ -1,0 +1,39 @@
+
+body {
+    background: #333;
+    color: white;
+}
+
+header {
+    width: 100px;
+    
+    border-color: yellow;
+    border-width: 20px;
+    border-style: solid;
+    
+    padding: 20px;
+    margin: 20px 0px 40px 20px;
+}
+
+main {
+    width: 600px;
+    
+    border-color: lightyellow;
+    border-width: 1px;
+    border-style: dotted;
+    
+    margin: 40px auto 40px;
+    padding: 20px;
+}
+
+footer {
+    width: 50px;
+    
+    border-color: yellow;
+    border-width: 10px;
+    border-style: solid;
+    text-align: center;
+    
+    margin: 40px 10px 20px 90%;
+    padding: 10px;
+}
